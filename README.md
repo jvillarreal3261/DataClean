@@ -5,7 +5,7 @@ This repository contains the script to tidy the data.
 
 #step1 Read raw data files.
 
-#sept2 Combine both train,test, subjects and activites datasets in one dataset.
+#step2 Combine both train,test, subjects and activites datasets in one dataset.
 
 #step3 select only the mean and std colums from the features list.
 
